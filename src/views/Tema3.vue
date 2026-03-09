@@ -26,7 +26,7 @@
                   .col-xl-6.mb-4
                     h4 Ejemplo 1
                     p.mb-3 Una empresa vende al contado un terreno por $7.400.000. Esto quiere decir que recibió esa suma de dinero. 
-                    p.mb-3 Cuando se vende al contado se recibe dinero, por lo que la cuenta de activos Caja aumenta, y por tanto se debita. 
+                    p.mb-3 Cuando se vende al contado, se recibe dinero, por lo que la cuenta de activos Caja aumenta, y por tanto se debita. 
                     p.mb-0 Al entregar un terreno, la cuenta de activos Terrenos disminuye, y entonces se acredita.
                   .col-xl-6
                     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -38,8 +38,8 @@
                 .row.h-100.justify-content-center.align-items-center
                   .col-xl-6.mb-4
                     h4 Ejemplo 2
-                    p.mb-3 Una empresa realiza una compra de mercancías a crédito por $900.000. La cuenta de costo, denominada compra de mercancías aumenta, y por tanto se debita.
-                    p.mb-0 Cuando se recibe la mercancía se debe pagar su valor, pero como fue comprada a crédito, las deudas aumentan, por lo que la cuenta de pasivo llamada proveedores nacionales se acredita.
+                    p.mb-3 Una empresa realiza una compra de mercancías a crédito por $900.000. La cuenta de costo, denominada compra de mercancías, aumenta, y por tanto se debita.
+                    p.mb-0 Cuando se recibe la mercancía, se debe pagar su valor, pero como fue comprada a crédito, las deudas aumentan, por lo que la cuenta de pasivo llamada proveedores nacionales se acredita.
                   .col-xl-6
                     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                       h5 Figura 5.
@@ -86,7 +86,7 @@
                 h4.txt--purpura.mb-4 Ejemplo: 
                 p.mb-0 Una empresa vende mercancías por $820.000. Se reciben $200.000 de contado y el saldo a crédito.
 
-        p.mb-5 Para registrar las operaciones mercantiles en los comprobantes y libros de contabilidad se cambia la estructura de la cuenta T por los asientos de diario, de forma horizontal.
+        p.mb-5 Para registrar las operaciones mercantiles en los comprobantes y libros de contabilidad, se cambia la estructura de la cuenta T por los asientos de diario, de forma horizontal.
 
         .row.justify-content-center.mb-0
           .col-xl-6
@@ -279,7 +279,7 @@
                         td.ajuste-border-tabla -
                         td.texto-left 90.000
             .row(titulo="Comprobación de saldos").ajuste-cajaAcordion
-              p.mb-3 Al terminar el registro de los asientos contables se debe comprobar la aplicación de la partida doble; para esto se debe, en primer lugar, desarrollar el ejercicio en una sola cuenta T al final, se suman los débitos y créditos, los cuales debe dar sumas iguales.
+              p.mb-3 Al terminar el registro de los asientos contables, se debe comprobar la aplicación de la partida doble; para esto se debe, en primer lugar, desarrollar el ejercicio en una sola cuenta T. Al final, se suman los débitos y créditos, los cuales deben dar sumas iguales.
               .ajuste-cajaAcordion_1
                 .titulo-sexto.color-acento-contenido.mb-2
                   h5 Tabla 11.
@@ -320,7 +320,7 @@
       .col
         h3 Ecuación patrimonial
 
-    p.mb-5 Es necesario encontrar el equilibrio entre las cuentas reales. Para lograrlo se utiliza una fórmula matemática conocida como la #[b ecuación patrimonial]. Esta fórmula revela el valor del activo, pasivo o del patrimonio.
+    p.mb-5 Es necesario encontrar el equilibrio entre las cuentas reales. Para lograrlo, se utiliza una fórmula matemática conocida como la #[b ecuación patrimonial]. Esta fórmula revela el valor del activo, pasivo o del patrimonio.
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in")
       .col-xl-5
@@ -374,7 +374,7 @@
     .color___box_2
       .px-5
 
-        p.mb-5 La información contable suministrada por la empresa se debe registrar en cada una de sus cuentas y para conocer cuál es el valor del patrimonio, las agruparemos por activo, pasivo y patrimonio.
+        p.mb-5 La información contable suministrada por la empresa se debe registrar en cada una de sus cuentas y, para conocer cuál es el valor del patrimonio, las agruparemos por activo, pasivo y patrimonio.
 
         .row.justify-content-center.mb-5
           .col-xl-6
@@ -405,7 +405,7 @@
                     td.texto-left 5.300.000
 
         
-        p.mb-5 Al sumar los valores de cada una de las cuentas del activo se tiene un total de #[b #[u 5.300.000]]. Para comprender el origen de los recursos externos, se procederá a agrupar las cuentas del pasivo, analizando cada una de las obligaciones y deudas que la entidad ha contraído para financiar su operación.
+        p.mb-5 Al sumar los valores de cada una de las cuentas del activo, se tiene un total de #[b #[u 5.300.000]]. Para comprender el origen de los recursos externos, se procederá a agrupar las cuentas del pasivo, analizando cada una de las obligaciones y deudas que la entidad ha contraído para financiar su operación.
 
         .row.justify-content-center.mb-5
           .col-xl-6
@@ -429,7 +429,7 @@
                     td.ajuste-border-tabla.texto-left Total pasivos
                     td.texto-left 1.500.000
     
-    p.mb-5 Al sumar los valores de cada una de las cuentas del pasivo se tiene un total de #[b #[u 1.500.000]]. Al tener los valores del activo y el pasivo, ya se puede determinar el valor del patrimonio, el cual, se puede calcular aplicando la fórmula de ecuación patrimonial así:
+    p.mb-5 Al sumar los valores de cada una de las cuentas del pasivo, se tiene un total de #[b #[u 1.500.000]]. Al tener los valores del activo y el pasivo, ya se puede determinar el valor del patrimonio, el cual se puede calcular aplicando la fórmula de ecuación patrimonial así:
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in")
       .col-xl-6
@@ -470,7 +470,7 @@
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left Nacionales
                     td.texto-left 3.000.000
-            p.mb-0 Al sumar el valor de la cuenta bancos del activo se tiene un total de 3.000.000. Respecto a los pasivos no se realiza ningún registro porque el enunciado del ejercicio únicamente hace referencia a los 3.000.000 en bancos. Finalmente, se tiene el siguiente patrimonio:
+            p.mb-0 Al sumar el valor de la cuenta bancos del activo, se tiene un total de 3.000.000. Respecto a los pasivos, no se realiza ningún registro porque el enunciado del ejercicio únicamente hace referencia a los 3.000.000 en bancos. Finalmente, se tiene el siguiente patrimonio:
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img37.svg", alt="" ).m-auto

@@ -7,7 +7,7 @@
         span 2
       h1 Cuentas de orden
     
-    p.mb-3 En Colombia las cuentas de orden son registros contables que se utilizan para controlar circunstancias, que no afectan directamente e inmediata el balance general ni el estado de resultados, pero sí a futuro. Se utilizan para control interno y dar información. Se registran en la clase 8 y 9. 
+    p.mb-3 En Colombia, las cuentas de orden son registros contables que se utilizan para controlar circunstancias que no afectan directamente e inmediatamente el balance general ni el estado de resultados, pero sí a futuro. Se utilizan para control interno y dar información. Se registran en las clases 8 y 9. 
 
     p.mb-3 También se utiliza para conciliar las diferencias que existan entre los registros contables y las declaraciones tributarias. 
 
@@ -20,7 +20,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Cuentas de orden deudoras (Clase 8)
-                p.mb-0 Los dineros, los documentos y los bienes que conforman el grupo de cuentas de orden deudoras se manejan como las cuentas de activo, por lo tanto, su saldo es débito. Ejemplo: bienes y valores entregados en custodia o en garantía.
+                p.mb-0 Los dineros, los documentos y los bienes que conforman el grupo de cuentas de orden deudoras se manejan como las cuentas de activo; por lo tanto, su saldo es débito. Ejemplo: bienes y valores entregados en custodia o en garantía.
               .col-xl-6
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img30.png', alt='' style="max-width: 500px").m-auto

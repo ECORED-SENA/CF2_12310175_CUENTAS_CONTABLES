@@ -33,7 +33,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Conceptos
 
-    p.mb-5 Las cuentas nominales, o de resultado, se denominan así porque al final del ejercicio contable muestran las utilidades, gastos y costos. También son llamadas: cuentas transitorias, cuentas operacionales y cuentas de ganancias y pérdidas.
+    p.mb-5 Las cuentas nominales, o de resultado, se denominan así porque al final del ejercicio contable muestran las utilidades, gastos y costos. También son llamadas cuentas transitorias, cuentas operacionales y cuentas de ganancias y pérdidas.
 
     .row.justify-content-center.mb-5
       .col-xl-4.col-md-9(data-aos="zoom-in")
@@ -43,7 +43,7 @@
               figure.mb-4(data-aos="fade-right")
                 img(src='@/assets/curso/temas/img3.svg', alt="" style="max-width: 115px").m-auto
             h4.text-center Cuentas transitorias
-            p.mb-0 Se cancelan el cierre del período contable.
+            p.mb-0 Se cancela el cierre del período contable.
       .col-xl-4.col-md-9(data-aos="zoom-in").espacio___movil_3
         .style___box_3.h-100
           .row.justify-content-center.mb-3
@@ -61,7 +61,7 @@
             h4.text-center Cuentas de ganancias y pérdidas
             p.mb-0 Conforman el estado del mismo nombre.
     
-    p.mb-5 A continuación, se revisará qué son: ingresos, gastos y costos:
+    p.mb-5 A continuación, se revisará qué son ingresos, gastos y costos:
 
     .fondo___slider.mb-0
       .px-5
@@ -108,7 +108,7 @@
           .col
             h3 Ingresos 
 
-        p.mb-5 Con el objetivo de explorar más acerca de los ingresos se estudiará la naturaliza, clasificación, cierre contable y marco normativo.
+        p.mb-5 Con el objetivo de explorar más acerca de los ingresos, se estudiará la naturaleza, clasificación, cierre contable y marco normativo.
         
         .bg--img_03.mb-5
           .row.h-100.align-items-center
@@ -153,28 +153,28 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left 4
-                    td.texto-left INGRESOS
+                    td.texto-left Ingresos
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 41
-                    td.texto-left OPERACIONALES
+                    td.texto-left Operacionales
                   tr
                     td.ajuste-border-tabla.texto-left 4135
-                    td.texto-left Comercio al por mayor y al por menor.
+                    td.texto-left Comercio al por mayor y al por menor
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 4140
-                    td.texto-left Hoteles y restaurantes.
+                    td.texto-left Hoteles y restaurantes
                   tr
                     td.ajuste-border-tabla.texto-left 42
-                    td.texto-left NO OPERACIONALES
+                    td.texto-left No operacionales
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 4210
-                    td.texto-left Financieros.
+                    td.texto-left Financieros
                   tr
                     td.ajuste-border-tabla.texto-left 4220
-                    td.texto-left Arrendamientos.
+                    td.texto-left Arrendamientos
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 4225
-                    td.texto-left Comisiones.
+                    td.texto-left Comisiones
 
         .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
           .col-lg-auto
@@ -183,7 +183,7 @@
           .col
             h3 Gastos
 
-        p.mb-5 Para conocer más sobre los gastos se explorará acerca de su naturaliza, clasificación, cierre, y relación con el patrimonio.
+        p.mb-5 Para conocer más sobre los gastos, se explorará acerca de su naturaleza, clasificación, cierre y relación con el patrimonio.
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Naturaleza")
@@ -238,31 +238,31 @@
             tbody
               tr
                 td.ajuste-border-tabla.texto-left 5
-                td.texto-left GASTOS
+                td.texto-left Gastos
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left 51
-                td.texto-left OPERACIONALES DE ADMINISTRACIÓN
+                td.texto-left Operacionales de administración
               tr
                 td.ajuste-border-tabla.texto-left 5105
-                td.texto-left Gastos de personal.
+                td.texto-left Gastos de personal
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left 5110
-                td.texto-left Honorarios.
+                td.texto-left Honorarios
               tr
                 td.ajuste-border-tabla.texto-left 5115
-                td.texto-left Impuestos.
+                td.texto-left Impuestos
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left 52
-                td.texto-left NO OPERACIONALES DE VENTAS
+                td.texto-left No operacionales de ventas
               tr
                 td.ajuste-border-tabla.texto-left 5205
-                td.texto-left Gastos.
+                td.texto-left Gastos
               tr.ajuste-color-tabla
                 td.ajuste-border-tabla.texto-left 5210
-                td.texto-left Honorarios.
+                td.texto-left Honorarios
               tr
                 td.ajuste-border-tabla.texto-left 5215
-                td.texto-left Impuestos.
+                td.texto-left Impuestos
 
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -328,25 +328,25 @@
                 tbody
                   tr
                     td.ajuste-border-tabla.texto-left 6
-                    td.texto-left COSTO DE VENTAS
+                    td.texto-left Costo de ventas
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 61
-                    td.texto-left COSTO DE VENTAS Y PRESTACIÓN DE SERVICIOS
+                    td.texto-left Costos de ventas y prestación de servicios
                   tr
                     td.ajuste-border-tabla.texto-left 6120
-                    td.texto-left Industria.
+                    td.texto-left Industria
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 6135
-                    td.texto-left Comercio al por mayor al por menor.
+                    td.texto-left Comercio al por mayor al por menor
                   tr
                     td.ajuste-border-tabla.texto-left 62
-                    td.texto-left COMPRAS
+                    td.texto-left Compras
                   tr.ajuste-color-tabla
                     td.ajuste-border-tabla.texto-left 6205
-                    td.texto-left De mercancías.
+                    td.texto-left De mercancías
                   tr
                     td.ajuste-border-tabla.texto-left 6225
-                    td.texto-left Devoluciones en compras.
+                    td.texto-left Devoluciones en compras
 
         <!------------------------------------------ SUBTEMA 3 ------------------------------------------>
         Separador
@@ -356,14 +356,14 @@
         .color___box_1
           .px-5 
 
-            p.mb-5 En este parte se analizarán los movimientos de los ingresos, los gastos y los costos.
+            p.mb-5 En esta parte se analizarán los movimientos de los ingresos, los gastos y los costos.
 
             TabsB.color-acento-contenido(data-aos="zoom-in")
               .py-4.py-md-5(titulo="Ingresos" :icono="require('@/assets/curso/temas/img26.svg')")
                 .row.align-items-center
                   .col-xl-5.ajuste__movil_3
                     h4 Ingresos 
-                    p.mb-0 Sus movimientos empiezan y aumentan en el haber, normalmente no se debitan si no al final del período contable.
+                    p.mb-0 Sus movimientos empiezan y aumentan en el haber; normalmente, no se debitan sino al final del período contable.
                   .col-xl-6.mb-4.mb-md-0.ajuste__movil_3.espacio___movil_3
                     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                       h5 Figura 1.
@@ -387,7 +387,7 @@
                 .row.align-items-center
                   .col-xl-5.ajuste__movil_3
                     h4 Costos
-                    p.mb-0 Esta cuenta empieza y aumenta en el Debe, y se disminuye y cancela en el haber. Por lo general no se acredita, su saldo es débito.
+                    p.mb-0 Esta cuenta empieza y aumenta en el Debe, y se disminuye y cancela en el haber. Por lo general, no se acredita; su saldo es débito.
                   .col-xl-6.mb-4.mb-md-0.ajuste__movil_3.espacio___movil_3
                     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
                       h5 Figura 3.

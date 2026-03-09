@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Cuentas nominales y registros contables',
     Description:
-      'Este componente formativo ha sido estructurado para conocer las cuentas nominales, como herramientas esenciales para planear los aspectos contables de una entidad. Su correcto registro financiero permite obtener un balance adecuado y medir el rendimiento operativo. Asimismo, realizar registros contables bajo las normas vigentes, que garanticen actividades financieras transparente y que reflejen fielmente sus ingresos, costos y gastos.',
+      'Este componente formativo ha sido estructurado para conocer las cuentas nominales, como herramientas esenciales para planear los aspectos contables de una entidad. Su correcto registro financiero permite obtener un balance adecuado y medir el rendimiento operativo. Asimismo, realizar registros contables bajo las normas vigentes, que garanticen actividades financieras transparentes y que reflejen fielmente sus ingresos, costos y gastos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -106,11 +106,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -132,14 +127,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
-    },
-  ],
   glosario: [
     {
       termino: 'Activo',
@@ -249,7 +236,7 @@ export default {
     {
       termino: 'Patrimonio',
       significado:
-        'valor residual de los activos de una entidad después de deducir todos sus pasivos; representa los aportes de los propietarios y los resultados acumulados.n',
+        'valor residual de los activos de una entidad después de deducir todos sus pasivos; representa los aportes de los propietarios y los resultados acumulados.',
     },
     {
       termino: 'Registro contable',

@@ -505,8 +505,8 @@
 
         figure(data-aos="zoom-in")
           .video.mb-1
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption(data-aos="zoom-in") #[b Video]: 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1ZlqAf3OEbA" title="Modificaciones en la ecuación patromonial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption(data-aos="zoom-in") #[b Video]: modificaciones en la ecuación patromonial.
 
 </template>
 

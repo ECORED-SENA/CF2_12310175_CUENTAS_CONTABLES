@@ -22,7 +22,7 @@
                 h4 Cuentas de orden deudoras (Clase 8)
                 p.mb-0 Los dineros, los documentos y los bienes que conforman el grupo de cuentas de orden deudoras se manejan como las cuentas de activo; por lo tanto, su saldo es débito. Ejemplo: bienes y valores entregados en custodia o en garantía.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img30.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -30,7 +30,7 @@
                 h4 Cuentas de orden acreedoras (Clase 9)
                 p.mb-0 Los bienes recibidos para custodia, manejo o negociación constituyen este grupo. Se manejan como cuentas de pasivo, por lo que su saldo es crédito. Ejemplo: bienes y valores recibidos en custodia y garantía.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img31.png', alt='' style="max-width: 500px").m-auto
 
 </template>

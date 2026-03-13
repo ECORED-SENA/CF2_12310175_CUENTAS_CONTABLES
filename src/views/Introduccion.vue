@@ -12,12 +12,13 @@
 
     .row.align-items-center.mb-5
       .col-xl
-        .row.align-items-center.m-0.mb-3.style___box_1(data-aos="zoom-in")
-          .col-xl-auto
-            figure.d-none.d-xl-block
-              img(src="@/assets/curso/intro/img1.jpg", alt="").m-auto
-          .col-xl
-            p.mb-0 En esta etapa del programa de formación virtual, es fundamental alcanzar un reconocimiento integral de los diversos tipos de cuentas, su caracterización y sus movimientos. Este conocimiento es la base para planear los aspectos contables de una entidad y asegurar un registro financiero que permita obtener un balance adecuado.
+        .style___box_1.mb-3(data-aos="zoom-in")
+          .row.align-items-center
+            .col-xl-auto
+              figure
+                img(src='@/assets/curso/intro/img1.jpg', alt='').m-auto
+            .col-xl
+              p.mb-0 En esta etapa del programa de formación virtual, es fundamental alcanzar un reconocimiento integral de los diversos tipos de cuentas, su caracterización y sus movimientos. Este conocimiento es la base para planear los aspectos contables de una entidad y asegurar un registro financiero que permita obtener un balance adecuado.
         p.mb-0 Al dominar estos conceptos, podrá desarrollar un registro contable de la actividad financiera bajo las normas vigentes, lo que garantiza un orden específico en las finanzas y una gestión eficiente de los ingresos. El material de esta actividad se centra en las cuentas nominales o de estado de resultados, herramientas clave para aplicar los aprendizajes adquiridos de manera proactiva y técnica.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block

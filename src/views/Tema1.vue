@@ -13,11 +13,11 @@
 
     .row.align-items-center.m-0
       .col-xl
-        .row.align-items-center.style___box_2(data-aos="zoom-in")
+        .row.align-items-center.justify-content-center.style___box_2(data-aos="zoom-in")
           .col-auto
-            figure.d-none.d-xl-block(data-aos="fade-right")
+            figure(data-aos="fade-right")
               img(src="@/assets/curso/temas/img1.svg" style="max-width: 220px").m-auto
-          .col
+          .col.espacio___movil_3
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Cuentas nominales o de resultado"
@@ -72,7 +72,7 @@
                 h4 Ingresos
                 p.mb-0 Los ingresos se definen como los incrementos en el patrimonio neto de una entidad, siempre que no provengan de los aportes de los propietarios, originados por la actividad económica de venta de bienes y prestación de servicios, o por variaciones en el valor de activos y pasivos que exijan reconocimiento contable. Este flujo se manifiesta técnicamente a través de un aumento en el valor de los activos o una reducción de los pasivos (o una combinación de ambos), consolidando así una mejora real en la estructura financiera de la organización.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img7.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -80,7 +80,7 @@
                 h4 Gastos
                 p.mb-0 Los gastos constituyen disminuciones del patrimonio neto de una organización que no tienen su origen en distribuciones de fondos a los propietarios, sino que derivan de la actividad económica de adquisición de bienes y servicios, o de variaciones en el valor de activos y pasivos que requieren reconocimiento contable. Este fenómeno se materializa de forma efectiva mediante la entrega o reducción de activos o la asunción de nuevos pasivos (o una combinación de ambos), lo que representa una salida de recursos o un incremento de las obligaciones financieras para la organización.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img8.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -88,7 +88,7 @@
                 h4 Costos
                 p.mb-0 El costo de ventas representa el valor de adquisición de los productos destinados a la comercialización, así como todas las disminuciones patrimoniales asociadas directamente con la producción de bienes o la prestación de servicios que generan los ingresos del ente económico. Este concepto agrupa de manera integral tanto el precio de compra de las mercancías como los recursos consumidos en los procesos operativos de transformación, vinculando causalmente el esfuerzo productivo con la obtención de beneficios económicos.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img9.png', alt='' style="max-width: 500px").m-auto
 
     <!------------------------------------------ SUBTEMA 2 ------------------------------------------>
@@ -189,7 +189,7 @@
       .py-3.py-md-4(titulo="Naturaleza")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
+            figure
               img(src='@/assets/curso/temas/img18.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Naturaleza
@@ -198,7 +198,7 @@
       .py-3.py-md-4(titulo="Clasificación")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
+            figure
               img(src='@/assets/curso/temas/img19.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Clasificación
@@ -207,7 +207,7 @@
       .py-3.py-md-4(titulo="Cierre")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
+            figure
               img(src='@/assets/curso/temas/img20.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Cierre
@@ -216,7 +216,7 @@
       .py-3.py-md-4(titulo="Relación con el patrimonio")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
-            figure.d-none.d-xl-block
+            figure
               img(src='@/assets/curso/temas/img21.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Relación con el patrimonio
@@ -282,7 +282,7 @@
                 h4 Acumulación de recursos
                 p.mb-0 Contiene las cuentas que registran los costos directos e indirectos, que son indispensables para la fabricación de productos o la prestación de los servicios.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img22.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -290,7 +290,7 @@
                 h4 Componentes del costo
                 p.mb-0 Están integrados por rubros operativos fundamentales como compras de mercancías, materias primas, inventarios, mano de obra directa y costos indirectos de fabricación (CIF).
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img23.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
@@ -298,7 +298,7 @@
                 h4 Trazabilidad del proceso
                 p.mb-0 Permiten el control financiero de las distintas etapas operativas, abarcando desde el costo de la producción en proceso hasta el de la producción terminada lista para la venta.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img24.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
@@ -306,7 +306,7 @@
                 h4 Cierre contable
                 p.mb-0 Al final del ejercicio económico, sus saldos deben cancelarse con cargo a la cuenta 5905 Ganancias y Pérdidas, siguiendo la misma dinámica de las cuentas de ingresos y gastos.
               .col-xl-6
-                figure.d-none.d-xl-block
+                figure
                   img(src='@/assets/curso/temas/img25.png', alt='' style="max-width: 500px").m-auto
 
     .color___box_2
